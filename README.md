@@ -1,25 +1,24 @@
 # protein_scanning
 
 <h3>searching algorithms</h3>
-blast
-blastp
-psiblast
-rpsblast
+blastp<br>
+psiblast<br>
+rpsblast<br>
 
-hmmer
-hhsuite
+hmmer<br>
+hhsuite<br>
 
-modeller
+modeller<br>
 
-phyre2
+phyre2(online)<br>
 
 <h3>databases</h3>
-refseq
-nr
-uniref100,uniref90,uniref50
-pdb
-cdd
-pfam
-TIGER
+refseq<br>
+nr<br>
+uniref100<br>
+pdb<br>
+cdd<br>
+pfam<br>
+TIGER<br>
 cath
 
