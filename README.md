@@ -1,6 +1,6 @@
 # protein_scanning
 
-searching algorithms
+<h3>searching algorithms</h3>
 blast
 blastp
 psiblast
@@ -11,7 +11,9 @@ hhsuite
 
 modeller
 
-databases
+phyre2
+
+<h3>databases</h3>
 refseq
 nr
 uniref100,uniref90,uniref50
@@ -20,4 +22,4 @@ cdd
 pfam
 TIGER
 cath
-phyre2
+
